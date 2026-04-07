@@ -23,8 +23,8 @@ predictive-maintenance-ml/
 
 ## Étapes du projet
 1. ✅ Mise en place environnement
-2. 🔄 EDA (en cours)
-3. ⬜ Preprocessing & modélisation
+2. 🔄 EDA (done!)
+3. ⬜ Preprocessing & modélisation(en cours)
 4. ⬜ Explicabilité SHAP
 5. ⬜ Dashboard Streamlit + déploiement
 
